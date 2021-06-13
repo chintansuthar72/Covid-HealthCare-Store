@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Covid_HealthCare_Store.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Covid_HealthCare_Store.dir/objects.a @CMakeFiles\Covid_HealthCare_Store.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Covid_HealthCare_Store.dir/objects.a -Wl,--no-whole-archive -o Covid_HealthCare_Store.exe -Wl,--out-implib,libCovid_HealthCare_Store.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Covid_HealthCare_Store.dir\linklibs.rsp

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/Queue.h
+
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/customer.cpp
+string
+-
+customer.h
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/customer.h
+cstring
+-
+iostream
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/iostream
+
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/customer.h
+string
+-
+
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/vaccine.cpp
+vaccine.h
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/vaccine.h
+string
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/string
+iostream
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/iostream
+Queue.h
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/Queue.h
+
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/vaccine.h
+string
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/string
+

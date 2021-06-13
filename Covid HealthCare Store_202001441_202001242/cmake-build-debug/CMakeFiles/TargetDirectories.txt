@@ -1,0 +1,3 @@
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/cmake-build-debug/CMakeFiles/Covid_HealthCare_Store.dir
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DAIICT/sem 2/IT206/Covid HealthCare Store/cmake-build-debug/CMakeFiles/rebuild_cache.dir
